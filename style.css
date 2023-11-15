@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Poppins:wght@200;300;400&family=Raleway&display=swap');
+
+.banner {
+    background: url("image/banner.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #c7c6c6;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+
+.client img {
+    height: auto;
+    max-height: 50px;
+}
+
+.kontak {
+    background: url('') no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #333;
+}
+.line {
+    width: 250px;
+    height: 2px;
+    background-color: white;
+    margin: 19px auto;
+}
